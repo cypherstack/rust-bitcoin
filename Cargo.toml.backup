@@ -1,5 +1,5 @@
 [package]
-name = "cs_mwc-bitcoin"
+name = "mwc-bitcoin"
 version = "0.26.0"
 authors = ["Andrew Poelstra <apoelstra@wpsoftware.net>"]
 license = "CC0-1.0"
